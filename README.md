@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ? Fun fact: ...
 -->
 
+[![](https://raw.githubusercontent.com/Aichi-Kouki/Aichi-Kouki/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/Aichi-Kouki/Aichi-Kouki/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/Aichi-Kouki/Aichi-Kouki/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
